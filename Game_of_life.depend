@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1591621203 source:c:\users\kluci\documents\ondra\ivt\game_of_life\main.c
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<unistd.h>
+	<stdlib.h>
+	<math.h>
+
